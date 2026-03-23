@@ -1,0 +1,13 @@
+# BMW Ultimate Driving Machine - Owner's Manual Snippets
+
+## Section 1: Warning Lights
+- **Yellow Steering Wheel Icon:** This indicates a fault in the electric power steering. The vehicle remains steerable, but significantly more effort may be required. Please drive cautiously to the nearest BMW Service Center.
+- **Red Oil Can Icon:** This means engine oil pressure is too low. Stop the vehicle safely immediately and switch off the engine. Do not continue driving as this will cause severe engine damage.
+- **Blue Snowflake Icon:** Outside temperature is below +37°F (+3°C). Beware of black ice and slippery road conditions.
+
+## Section 2: Battery and Charging (EV Models)
+- **Optimal Charging:** To maximize the lifespan of your high-voltage battery, it is recommended to set the charge target to 80% for daily use. Only charge to 100% before long trips.
+- **Cold Weather Effect:** In freezing temperatures, the chemical processes in the battery slow down. You may notice reduced range and slower acceleration until the battery warms up.
+
+## Section 3: Infotainment System
+- **Resetting iDrive:** If the central touchscreen freezes or becomes unresponsive, you can perform a hard reset by pressing and holding the volume knob for exactly 30 seconds until the screen goes black and the BMW logo reappears.
